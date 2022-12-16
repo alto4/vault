@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "3b8a1902f8026569",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e97e04c4547def0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54a970d75ca99959",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac2fc38e731ffe63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6795082fd35faf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f74fff6db694f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b4ab44110f7235a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "eedab70544a9a770",
+    "type": "split",
+    "children": [
+      {
+        "id": "84963630ef2d71a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bee057b3112ccc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dacfafe26bccf224",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fa03958a64ebbd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5300f489065ba21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "8e97e04c4547def0",
+  "lastOpenFiles": [
+    "test.md",
+    "Today/December 15, 2022.md",
+    "Today/Jason - December 15, 2022.md",
+    "Today/Asturias.pdf",
+    "Today/La Catedral.pdf",
+    "Chores/Grocery Shopping List.md",
+    "Chores/Xmas Shopping List.md",
+    "Daily Tasks/This Month/December 16, 2022.md",
+    "Daily Tasks/This Month/December 19, 2022.md",
+    "Daily Tasks/This Month/December 18, 2022.md"
+  ]
+}
